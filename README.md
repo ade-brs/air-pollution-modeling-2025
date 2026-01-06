@@ -54,7 +54,13 @@ The project combines data analysis, graph theory, machine learning, and spectral
 
 ---
 
-##  Academic Context
-Project carried out during the first year of Engineering School (CY Tech – ING1 GM).
-Work completed as part of a team project.
+##  Team & Academic Context
+This project was carried out as a team project during the first year
+of engineering school (CY Tech – ING1 GMF4).
 
+Team members:
+- Adélaïde Broucas
+- Rayan Hussein
+- Rayane Manseur
+- Paul Monique
+- Alan Thulliez
