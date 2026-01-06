@@ -58,4 +58,3 @@ The project combines data analysis, graph theory, machine learning, and spectral
 Project carried out during the first year of Engineering School (CY Tech – ING1 GM).
 Work completed as part of a team project.
 
-📄 The full academic report is available in the `/report` folder.
